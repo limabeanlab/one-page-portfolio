@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(101, 247, 101));
+}
+
+.navbar-brand {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.navbar-brand:hover {
+    color: rgba(0, 0, 0, 0.9) !important;
+}
+
+#navbarHeader {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(101, 247, 101)); 
+}
+
+#lablogo {
+    height: 50px;
+    width: 50px;
+    margin-right: 5px;
+}
